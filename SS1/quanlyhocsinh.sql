@@ -14,3 +14,10 @@ age int,
 country varchar(50)
 );
 
+create table Students(
+id int,
+name varchar(100),
+age int,
+country varchar(50)
+);
+
