@@ -9,3 +9,4 @@ insert into student (StudentName, Address, phone, Status, ClassID) values ('Hung
 insert into student (StudentName, Address, Status, ClassID) values ('Hoa', 'Hai Phong', 1, 1);
 insert into student (StudentName, Address, phone, Status, ClassID) value ('Manh', 'HCM', 0123123123, 0, 2);
 insert into subject values (1, 'CF', 5, 1), (2, 'C', 6, 1), (3, 'HDJ', 5, 1), (4, 'RDBMS', 10, 1);
+
