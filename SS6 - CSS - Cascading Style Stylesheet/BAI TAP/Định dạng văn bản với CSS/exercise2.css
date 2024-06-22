@@ -1,0 +1,26 @@
+h1 {
+    margin-bottom: 0;
+}
+hr {
+    margin-bottom: -15px;
+}
+
+.indent {
+    text-indent: 0;
+}
+
+.element2 {
+    font-weight: bold;
+    color: black;
+}
+
+p {
+    text-indent: 50px;
+    font-weight: 500;
+    font-family: Arial, serif;
+}
+
+span {
+    color: blue;
+}
+
