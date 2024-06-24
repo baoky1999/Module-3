@@ -1,0 +1,78 @@
+#header {
+    background: #333333;
+    height: 70px;
+    width: 100%;
+}
+#header .container {
+    display: flex;
+    list-style-type: none;
+}
+#header .container li {
+    padding-right: 40px;
+    padding-top: 20px;
+}
+#header .container li a {
+    text-decoration: none;
+    color: #999999;
+}
+#header .container li a:hover {
+    background-color: black;
+    border: 10px solid black;
+    padding-top: 10px;
+    padding-bottom: 22px;
+    color: white;
+}
+#sidebar1 {
+    background: #e5e5e5;
+    height: 570px;
+    width: 15%;
+    float: right;
+}
+#main {
+    background: rgb(255, 255, 255);
+    height: 570px;
+    width: 68%;
+    margin-left: 16%;
+    float: left;
+    font-family: Calibri, serif;
+}
+#main h1 {
+    font-size: 60px;
+    margin-top: 20px;
+}
+#main p {
+    font-size: 20px;
+    margin-top: -30px;
+}
+#main h2 {
+    font-size: 35px;
+}
+#sidebar2 {
+    background: #e5e5e5;
+    height: 570px;
+    width: 15%;
+}
+#sidebar2 ul{
+    position: absolute;
+    left: 70px;
+    list-style-type: none;
+}
+#sidebar2 li a{
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 50px;
+}
+#sidebar1 button {
+    display: block;
+    width: 170px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#footer {
+    background: #666666;
+    height: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
