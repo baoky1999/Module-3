@@ -1,0 +1,73 @@
+header img {
+    width: 2562px;
+    height: 800px;
+    margin-left: 460px;
+}
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    background-color: khaki;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    margin-left: 460px;
+}
+div {
+    position: fixed;
+    top: 710px;
+    height: 100%;
+    transform: translateY(-50%);
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+ul img {
+    height: 150px;
+    width: 150px;
+}
+a {
+    text-decoration: none;
+    font-size: 30px;
+}
+h5 {
+    font-size: 40px;
+    text-align: center;
+}
+main {
+    font-family: Calibri , serif;
+    background-color: antiquewhite;
+    padding: 20px;
+    font-size: 30px;
+}
+.chapter {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+#chap1 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 2520px;
+    height: 100%;
+    text-align: justify;
+    margin-left: 460px;
+}
+#chap2 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 2520px;
+    height: 100%;
+    text-align: justify;
+    margin-left: 460px;
+}
+#chap3 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 2520px;
+    height: 100%;
+    text-align: justify;
+    margin-left: 460px;
+}
