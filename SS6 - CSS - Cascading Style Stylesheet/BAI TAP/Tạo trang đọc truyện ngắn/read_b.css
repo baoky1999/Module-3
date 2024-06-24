@@ -71,3 +71,7 @@ main {
     text-align: justify;
     margin-left: 460px;
 }
+footer {
+    position: relative;
+    left: 2800px;
+}
