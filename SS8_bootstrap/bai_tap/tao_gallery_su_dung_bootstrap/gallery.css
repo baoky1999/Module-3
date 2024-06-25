@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+.container .gallery {
+    border: 1px solid rgba(229, 229, 226, 0.68);
+}
+.container .gallery:hover {
+    border: 1px solid black;
+}
+.container {
+    float: left;
+    width: 24%;
+    margin-left: 5px;
+}
+.container .gallery img {
+    width: 100%;
+}
+.container .gallery p {
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    font-weight: 100;
+}
+@media only screen and (max-width: 700px){
+    .container {
+        width: 45%;
+        margin: 5px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .container {
+        width: 100%;
+    }
+}
+.footer {
+    clear: both;
+    padding: 20px;
+}
