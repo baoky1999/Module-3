@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+.baoky {
+    margin-left: 240px;
+}
+.baoKygiohang {
+    margin-top: 10px;
+}
+.baokydangnhap {
+    margin-left: 10px;
+}
+.dangnhapicon {
+    margin-top: 10px;
+}
+.hotro a{
+    text-decoration: none;
+    font-family: Arial, serif;
+    color: white;
+    margin-left: 400px;
+}
+.hotro {
+    background: #003fd2;
+    float: left;
+    width: 70%;
+    padding: 15px 0 15px 0;
+}
+.hotroicon {
+    background: #003fd2;
+    padding: 15px 0 16px 0;
+    color: white;
+}
+.hotro:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+    margin-right: 10px;
+}
+.slide {
+    clear: both;
+}
+.slideimg {
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+}
+.imgtienich {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 35px;
+    width: 30%;
+    float: left;
+}
+@media screen and (max-width: 700px) {
+    .imgtienich {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
+.imgtienich svg {
+    height: 100px;
+    width: 100px;
+}
+.tienicha {
+    color: black;
+}
+.tienicha:hover {
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-weight: 600;
+}
+.col-md-3 {
+    width: 23%;
+}
+@media screen and (max-width: 700px) {
+    .col-md-3 {
+        width: 45%;
+    }
+}
+.cardedit {
+    margin: 100px 10px 0 10px;
+}
+.cardedit img {
+    width: 100%;
+    height: 35%;
+}
+.card {
+    padding: 0;
+    position: relative;
+}
+.cardedit .btn {
+    position: absolute;
+    bottom: 0;
+}
+.container .imgcontent {
+    width: 98%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container h1{
+    margin-bottom: 0;
+}
+.footerend{
+    margin-top: 100px;
+    background: whitesmoke;
+}
+.footeredit a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial, serif;
+    font-size: 12px;
+}
+.footeredit a:hover {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+li {
+    list-style-type: none;
+}
+.footervn li {
+    float: left;
+    margin-right: 10px;
+}
+.footervn a {
+    color: black;
+    text-decoration: none;
+}
+.footervn a:hover {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
